@@ -1,0 +1,20 @@
+I haven't found the time to mess around with gitHub still, but this is a small update to the game.
+
+http://www.4shared.com/archive/PNG92cVpba/FPS02.html?
+
+- When you fall in the pits you "die". This just means you can press 'R' to respawn and you spawn right before the room you died in.
+- You can also shoot and destroy the turrets.
+- Implemented a health system, although it's invisible currently and the only thing that hurts you are the pits
+
+For the next build I will be stopping the player from moving and such when they die, also, I will be implementing the turrets tracking and
+firing at the player. I would like to have the turrets spawn in as you enter the room, so as not to have all the turrets on the level detecting
+and firing at the player at once, but I am not quite sure how to go about doing this. It's a plan for the future, but will more than
+likely not be in the next build. It may end up there though, I'm just not sure yet. 
+
+In the final build (probably the one after the next) I will just be polishing things, making textures for the turrets and pits (spikes nd lava)
+as well as maybe having some sort of win text or scene of some sort. As well as adding moving platforms over the pits so that you can cross
+them with the base jump (the current jump is very high on purpose, as to allow traversing the level).
+
+I do plan on learning more about gitHub between now and the next build so I can actually upload the files, but it's kind of my least priority 
+right now as I would really like to just be able to say I have completed what I've set out to do. If worse comes to worse only the final
+build will have the files and scripts on here.
